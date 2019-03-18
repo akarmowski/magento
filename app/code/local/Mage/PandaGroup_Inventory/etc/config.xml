@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<config>
-    <modules>
-        <Mage_PandaGroup_Inventory>
-            <version>0.0.1</version>
-        </Mage_PandaGroup_Inventory>
-    </modules>
-</config>
